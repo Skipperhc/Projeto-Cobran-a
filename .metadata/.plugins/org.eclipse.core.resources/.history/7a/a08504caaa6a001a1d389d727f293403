@@ -1,0 +1,14 @@
+.navbar-brand {
+	padding-top: 12px;
+}
+
+.card {
+	margin-left: 30px;
+	margin-right: 30px;
+	margin-top: 20px;
+}
+
+.alerta {
+	margin-left: 30px;
+	margin-right: 30px;
+}

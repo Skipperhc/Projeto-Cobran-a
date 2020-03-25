@@ -1,0 +1,3 @@
+spring.datasource.url=jdbc:mysql//localhost/cobranca
+spring.datasource.username=root
+spring.datasource.password=17011971

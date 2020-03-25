@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:th="http://www.thymeleaf.org"
+      xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout"
+      layout:decorator="LayoutPadrao">
+
+
+<head>
+ 	<meta charset="utf-8">
+	<title>Pesquisa de Títulos</title>
+</head>
+
+<section layout:fragment="conteudo">
+	<div class="card">
+		<div class="card-header">
+			<div class="clearfix">
+				<p class="card-title aw-titulo-card">Pesquisa de Títulos</p>
+				<a class="btn btn-link aw-link-card" href="/titulos/novo">Novo Titulo</a>
+			</div>
+		</div>
+		
+		<div class="card-body">
+            <table class="table table-bordered table-striped">
+               	<thead>
+					<tr>
+						<th class="text-center col">#</th>
+						<th class="text-center col">Descrição</th>
+						<th class="text-center col">Data de vencimento</th>
+						<th class="text-right col">Valor</th>
+						<th class="text-center col">Status</th>
+						<th ></th>
+					</tr>
+			 	</thead>
+				<tbody>
+					<tr th:each="titulos: ${titulo}">
+						<td class="text-center" th:text="${titulos.codigo}"></td>
+						<td class="text-center" th:text="${titulos.descricao}"></td>
+						<td class="text-center" th:text="${{titulos.dataVencimento}}"></td> <!--{chaves duplas são as responsaveis por colocar da maneira que definimos}-->
+						<td class="text-right" th:text="|R$ ${{titulos.valor}}|"></td>
+						<td class="text-center">
+							<span class="badge p-2 pl-4 pr-4" th:text="${titulos.status.descricao}"
+							th:classappend="${titulos.pendente} ? 'badge-danger' : 'badge-success'"></span>
+						</td>
+						<td class="text=center">
+							
+						</td>
+					</tr>
+					
+					<tr th:if="${#lists.isEmpty(titulo)}">
+						<td colspan="12" >Nenhum título foi encontrado!</td>		
+					</tr>
+
+				</tbody>
+			</table>
+		</div>
+	</div>	
+</section>
+
+</html>

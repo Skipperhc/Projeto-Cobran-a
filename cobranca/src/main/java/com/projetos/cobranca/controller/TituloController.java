@@ -51,9 +51,9 @@ public class TituloController {
 	public ModelAndView Pesquisar(@ModelAttribute("filtro") TituloFilter filtro) {
 		String descricao = filtro.getDescricao() == null ? "" : filtro.getDescricao();
 		List<Titulo> todosTitulos = titulosRepos.findByDescricaoContaining(descricao);
-		
 		ModelAndView mv = new ModelAndView("PesquisaTitulos");
 		mv.addObject("titulos", todosTitulos);
+		mv.addObject("filtro", descricao);
 		return mv;
 	}
 	

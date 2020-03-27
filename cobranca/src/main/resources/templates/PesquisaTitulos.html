@@ -21,7 +21,7 @@
 		</div>
 		
 		<div class="card-body">
-			<form method="GET" class="form-hotizontal" action="/titulos" th:object="${filtro}">
+			<form method="GET" class="form-hotizontal" action="/titulos">
 				<div class="form-group">
 					<div class="col-sm-4">
 						<div class="input-group">
@@ -59,7 +59,6 @@
 						<td class="text-center" th:text="${titulo.codigo}"></td>
 						<td class="text-center" th:text="${titulo.descricao}"></td>
 						<td class="text-center" th:text="${#dates.format(titulo.dataVencimento, 'dd/MM/yyyy')}"></td>
-						<!-- <td class="text-center" th:text="${{titulo.dataVencimento}}"></td> --> <!--{chaves duplas são as responsaveis por colocar da maneira que definimos}-->
 						<td class="text-right" th:text="|R$ ${{titulo.valor}}|"></td>
 						<td class="text-center" th:attr="data-role=${titulo.codigo}">
 							<span class="badge p-2 pl-4 pr-4" th:text="${titulo.status.descricao}"

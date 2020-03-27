@@ -1,0 +1,37 @@
+package com.projetos.cobranca.services;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.dao.DataIntegrityViolationException;
+import org.springframework.stereotype.Service;
+
+import com.projetos.cobranca.model.StatusTitulo;
+import com.projetos.cobranca.model.Titulo;
+import com.projetos.cobranca.repository.Titulos;
+
+@Service
+public class CadastroTituloService {
+
+	
+	@Autowired
+	private Titulos titulosRepos;
+	
+	public void salvar(Titulo titulo) {
+		try {
+			titulosRepos.save(titulo);
+		} catch (DataIntegrityViolationException e) {
+			throw new IllegalArgumentException("Formato de data inválido!");
+		}
+	}
+
+	public void excluir(long codigo) {
+		titulosRepos.deleteById(codigo);
+	}
+
+	public String receber(Long codigo) {
+		Titulo titulo = titulosRepos.findById(codigo).get();
+		titulo.setStatus(StatusTitulo.RECEBIDO);
+		titulosRepos.save(titulo);
+		
+		return StatusTitulo.RECEBIDO.getDescricao();
+	}
+}

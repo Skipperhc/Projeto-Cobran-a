@@ -1,0 +1,5 @@
+package com.projetos.cobranca.services;
+
+public class CadastroTituloService {
+
+}

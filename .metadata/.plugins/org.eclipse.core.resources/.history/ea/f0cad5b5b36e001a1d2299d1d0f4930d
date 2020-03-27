@@ -1,0 +1,19 @@
+package com.projetos.cobranca.services;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.projetos.cobranca.model.Titulo;
+import com.projetos.cobranca.repository.Titulos;
+
+@Service
+public class CadastroTituloService {
+
+	
+	@Autowired
+	private Titulos titulosRepos;
+	
+	public void salvar(Titulo titulo) {
+		titulosRepos.save(titulo);
+	}
+}

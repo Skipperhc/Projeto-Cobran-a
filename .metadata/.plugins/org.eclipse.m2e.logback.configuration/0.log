@@ -2157,3 +2157,824 @@
 2020-03-25 10:31:43,430 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2020-03-25 10:31:43,434 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-03-25 10:31:43,434 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 11:35:46,850 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 11:35:46,858 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 11:35:46,865 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 34 resources
+2020-03-25 11:35:46,872 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 11:35:46,873 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 11:36:15,996 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 11:36:16,006 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 11:36:16,012 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 34 resources
+2020-03-25 11:36:16,019 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 11:36:16,019 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 11:43:20,908 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 11:43:21,052 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 11:43:21,052 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 11:43:21,058 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 11:43:21,059 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 11:43:39,937 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 11:43:39,937 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 11:43:39,938 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 11:43:39,943 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 11:43:39,944 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 11:57:52,176 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 11:57:52,177 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 11:57:52,177 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 11:57:52,196 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 11:57:52,196 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 12:00:50,567 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 12:00:50,568 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 12:00:50,568 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 12:00:50,573 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 12:00:50,574 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 12:01:50,670 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 12:01:50,670 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 12:01:50,670 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-03-25 12:01:50,678 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 12:01:50,678 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 12:01:55,010 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 12:01:55,010 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 12:01:55,010 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 12:01:55,016 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 12:01:55,016 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 12:02:07,175 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 12:02:07,175 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 12:02:07,176 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 12:02:07,181 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 12:02:07,181 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 12:02:55,575 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 12:02:55,576 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 12:02:55,576 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 12:02:55,581 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 12:02:55,581 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 12:03:25,298 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 12:03:25,306 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 12:03:25,331 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 35 resources
+2020-03-25 12:03:25,338 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 12:03:25,338 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 12:05:13,666 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 12:05:13,667 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 12:05:13,668 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 12:05:13,676 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 12:05:13,676 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 12:05:26,811 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 12:05:26,811 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 12:05:26,812 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 12:05:26,818 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 12:05:26,818 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 12:05:52,512 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 12:05:52,513 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 12:05:52,514 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 12:05:52,518 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 12:05:52,518 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 12:14:30,500 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 12:14:30,505 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 12:14:30,518 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 35 resources
+2020-03-25 12:14:30,527 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 12:14:30,527 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 12:15:19,329 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 12:15:19,331 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 12:15:19,331 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 12:15:19,336 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 12:15:19,336 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 12:15:37,881 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 12:15:37,881 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 12:15:37,882 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 12:15:37,886 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 12:15:37,886 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 12:16:35,365 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 12:16:35,366 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 12:16:35,367 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 12:16:35,373 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 12:16:35,373 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 12:17:23,663 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 12:17:23,663 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 12:17:23,663 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 12:17:23,668 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 12:17:23,668 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 12:32:40,313 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 12:32:40,313 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 12:32:40,314 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 12:32:40,320 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 12:32:40,320 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 12:32:51,557 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 12:32:51,558 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 12:32:51,559 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 12:32:51,566 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 12:32:51,566 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 12:33:03,865 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 12:33:03,869 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 12:33:03,875 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 35 resources
+2020-03-25 12:33:03,880 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 12:33:03,881 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 12:33:22,123 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 12:33:22,127 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 12:33:22,132 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 35 resources
+2020-03-25 12:33:22,138 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 12:33:22,138 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 12:34:12,473 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 12:34:12,474 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 12:34:12,475 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 12:34:12,482 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 12:34:12,483 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 12:34:32,486 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 12:34:32,486 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 12:34:32,487 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 12:34:32,491 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 12:34:32,491 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 12:34:47,221 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 12:34:47,225 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 12:34:47,231 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 35 resources
+2020-03-25 12:34:47,236 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 12:34:47,237 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 12:35:47,728 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 12:35:47,732 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 12:35:47,737 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 35 resources
+2020-03-25 12:35:47,742 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 12:35:47,742 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 12:36:16,864 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 12:36:16,864 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 12:36:16,864 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 12:36:16,871 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 12:36:16,871 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 12:37:13,238 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 12:37:13,242 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 12:37:13,247 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 35 resources
+2020-03-25 12:37:13,254 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 12:37:13,254 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 12:37:34,860 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 12:37:34,861 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 12:37:34,861 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 12:37:34,865 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 12:37:34,865 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 12:38:17,411 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 12:38:17,416 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 12:38:17,421 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 35 resources
+2020-03-25 12:38:17,427 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 12:38:17,427 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 13:08:28,681 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 13:08:28,686 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 13:08:28,710 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 35 resources
+2020-03-25 13:08:28,717 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 13:08:28,717 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 13:09:57,167 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 13:09:57,173 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 13:09:57,179 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 35 resources
+2020-03-25 13:09:57,189 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 13:09:57,189 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 13:11:08,766 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 13:11:08,771 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 13:11:08,777 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 35 resources
+2020-03-25 13:11:08,784 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 13:11:08,784 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 13:12:05,380 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 13:12:05,384 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 13:12:05,392 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 35 resources
+2020-03-25 13:12:05,398 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 13:12:05,398 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 13:12:46,878 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 13:12:46,883 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 13:12:46,890 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 35 resources
+2020-03-25 13:12:46,897 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 13:12:46,897 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 13:14:31,878 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 13:14:31,882 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 13:14:31,888 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 35 resources
+2020-03-25 13:14:31,894 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 13:14:31,894 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 13:15:05,053 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 13:15:05,057 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 13:15:05,062 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 35 resources
+2020-03-25 13:15:05,067 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 13:15:05,067 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 13:15:09,144 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 13:15:09,149 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 13:15:09,158 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 35 resources
+2020-03-25 13:15:09,170 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 13:15:09,171 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 13:15:42,921 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 13:15:42,925 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 13:15:42,932 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 35 resources
+2020-03-25 13:15:42,937 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 13:15:42,938 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 13:18:33,269 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 13:18:33,273 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 13:18:33,279 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 35 resources
+2020-03-25 13:18:33,287 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 13:18:33,287 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 13:18:40,961 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 13:18:40,965 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 13:18:40,970 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 35 resources
+2020-03-25 13:18:40,975 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 13:18:40,976 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 13:18:47,863 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 13:18:47,872 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 13:18:47,877 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 35 resources
+2020-03-25 13:18:47,885 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 13:18:47,885 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 13:38:31,700 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 13:38:31,701 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 13:38:31,702 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 13:38:31,710 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 13:38:31,710 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 13:39:30,036 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 13:39:30,036 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 13:39:30,037 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 13:39:30,041 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 13:39:30,041 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 13:39:56,557 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 13:39:56,558 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 13:39:56,559 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 13:39:56,578 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 13:39:56,578 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 13:40:13,832 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 13:40:13,832 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 13:40:13,833 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 13:40:13,837 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 13:40:13,838 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 13:40:54,897 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 13:40:54,898 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 13:40:54,898 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 13:40:54,902 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 13:40:54,903 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 13:41:12,477 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 13:41:12,477 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 13:41:12,477 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 13:41:12,484 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 13:41:12,485 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 13:41:54,710 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 13:41:54,711 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 13:41:54,711 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 13:41:54,715 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 13:41:54,716 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 13:42:21,527 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 13:42:21,527 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 13:42:21,527 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 13:42:21,534 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 13:42:21,534 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 13:45:32,674 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 13:45:32,675 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 13:45:32,675 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 13:45:32,679 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 13:45:32,679 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 13:46:06,218 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 13:46:06,218 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 13:46:06,219 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 13:46:06,224 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 13:46:06,224 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 13:48:24,350 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 13:48:24,350 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 13:48:24,351 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 13:48:24,358 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 13:48:24,359 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 13:48:46,798 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 13:48:46,799 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 13:48:46,799 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 13:48:46,806 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 13:48:46,806 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 13:51:15,466 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 13:51:15,466 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 13:51:15,466 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 13:51:15,471 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 13:51:15,471 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 13:51:42,125 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 13:51:42,126 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 13:51:42,126 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 13:51:42,131 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 13:51:42,132 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 13:54:56,626 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 13:54:56,626 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 13:54:56,626 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 13:54:56,631 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 13:54:56,631 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 13:55:15,656 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 13:55:15,656 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 13:55:15,656 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 13:55:15,661 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 13:55:15,662 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 13:55:18,488 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 13:55:18,489 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 13:55:18,489 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 13:55:18,494 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 13:55:18,494 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 13:55:35,898 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 13:55:35,898 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 13:55:35,898 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 13:55:35,902 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 13:55:35,903 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 13:55:56,810 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 13:55:56,811 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 13:55:56,811 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 13:55:56,817 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 13:55:56,817 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 13:56:11,435 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 13:56:11,435 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 13:56:11,435 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 13:56:11,440 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 13:56:11,440 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 13:57:42,744 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 13:57:42,744 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 13:57:42,744 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 13:57:42,749 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 13:57:42,749 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 14:00:45,148 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 14:00:45,148 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 14:00:45,149 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 14:00:45,152 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 14:00:45,153 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 14:00:51,327 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 14:00:51,327 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 14:00:51,328 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 14:00:51,331 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 14:00:51,332 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 14:02:01,894 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 14:02:01,894 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 14:02:01,895 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 14:02:01,899 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 14:02:01,900 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 14:02:40,384 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 14:02:40,384 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 14:02:40,385 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 14:02:40,388 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 14:02:40,389 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 14:03:25,852 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 14:03:25,852 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 14:03:25,853 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 14:03:25,856 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 14:03:25,857 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 14:04:50,280 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 14:04:50,281 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 14:04:50,281 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 14:04:50,285 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 14:04:50,285 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 14:08:02,070 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 14:08:02,070 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 14:08:02,071 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 14:08:02,074 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 14:08:02,074 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 14:09:59,735 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 14:09:59,735 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 14:09:59,736 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 14:09:59,739 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 14:09:59,740 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 14:12:29,390 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 14:12:29,391 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 14:12:29,391 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 14:12:29,395 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 14:12:29,396 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 14:19:44,015 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 14:19:44,016 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 14:19:44,017 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 14:19:44,022 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 14:19:44,022 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 14:19:54,166 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 14:19:54,167 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 14:19:54,167 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 14:19:54,175 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 14:19:54,176 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 14:23:31,849 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 14:23:31,849 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 14:23:31,849 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 14:23:31,853 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 14:23:31,853 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 14:23:47,855 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 14:23:47,855 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 14:23:47,855 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 14:23:47,860 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 14:23:47,861 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 14:24:02,610 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 14:24:02,610 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 14:24:02,610 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 14:24:02,615 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 14:24:02,615 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 14:26:49,382 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 14:26:49,382 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 14:26:49,382 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 14:26:49,387 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 14:26:49,387 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 14:26:54,273 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 14:26:54,274 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 14:26:54,274 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 14:26:54,283 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 14:26:54,283 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 14:27:00,853 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 14:27:00,857 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 14:27:00,863 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 35 resources
+2020-03-25 14:27:00,869 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 14:27:00,869 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 14:28:00,159 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 14:28:00,163 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 14:28:00,168 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 35 resources
+2020-03-25 14:28:00,173 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 14:28:00,173 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 14:28:44,870 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 14:28:44,871 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 14:28:44,871 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 14:28:44,876 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 14:28:44,876 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 14:29:20,431 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 14:29:20,431 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 14:29:20,432 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 14:29:20,436 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 14:29:20,436 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 14:29:23,496 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 14:29:23,496 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 14:29:23,496 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 14:29:23,500 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 14:29:23,501 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 14:34:48,692 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 14:34:48,693 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 14:34:48,693 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 14:34:48,700 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 14:34:48,700 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 14:40:04,981 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 14:40:04,981 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 14:40:04,981 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 14:40:04,992 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 14:40:04,994 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 14:41:49,351 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 14:41:49,351 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 14:41:49,352 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 14:41:49,356 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 14:41:49,356 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 14:43:06,534 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 14:43:06,535 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 14:43:06,535 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 14:43:06,539 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 14:43:06,539 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 14:43:19,845 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 14:43:19,846 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 14:43:19,846 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 14:43:19,850 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 14:43:19,850 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 14:45:16,759 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 14:45:16,759 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 14:45:16,759 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 14:45:16,763 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 14:45:16,763 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 14:48:33,288 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 14:48:33,288 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 14:48:33,289 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 14:48:33,294 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 14:48:33,294 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 14:57:22,596 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 14:57:22,599 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 14:57:22,604 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 35 resources
+2020-03-25 14:57:22,610 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 14:57:22,610 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 14:57:55,615 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 14:57:55,618 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 14:57:55,623 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 35 resources
+2020-03-25 14:57:55,628 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 14:57:55,629 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 14:58:39,234 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 14:58:39,239 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 14:58:39,244 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 35 resources
+2020-03-25 14:58:39,251 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 14:58:39,252 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 14:58:52,025 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 14:58:52,029 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 14:58:52,038 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 35 resources
+2020-03-25 14:58:52,044 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 14:58:52,044 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 14:59:01,967 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 14:59:01,976 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 14:59:01,982 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 35 resources
+2020-03-25 14:59:01,990 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 14:59:01,990 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-25 14:59:33,857 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 14:59:33,857 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-25 14:59:33,858 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-25 14:59:33,863 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-25 14:59:33,863 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-26 08:21:09,415 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-03-26 08:46:21,405 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 08:46:21,412 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-26 08:46:21,430 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 35 resources
+2020-03-26 08:46:21,439 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 08:46:21,439 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-26 09:02:49,505 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 09:02:49,512 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-26 09:02:49,526 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 35 resources
+2020-03-26 09:02:49,534 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 09:02:49,534 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-26 09:02:51,369 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 09:02:51,373 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-26 09:02:51,379 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 35 resources
+2020-03-26 09:02:51,386 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 09:02:51,386 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-26 09:03:20,306 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 09:03:20,310 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-26 09:03:20,315 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 35 resources
+2020-03-26 09:03:20,321 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 09:03:20,322 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-26 09:13:15,233 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 09:13:15,238 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-26 09:13:15,239 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-26 09:13:15,265 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 09:13:15,265 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-26 09:28:12,938 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 09:28:12,939 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-26 09:28:12,939 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-26 09:28:12,944 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 09:28:12,944 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-26 09:28:32,808 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 09:28:32,812 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-26 09:28:32,817 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 35 resources
+2020-03-26 09:28:32,823 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 09:28:32,823 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-26 09:36:08,291 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 09:36:08,294 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-26 09:36:08,300 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 35 resources
+2020-03-26 09:36:08,309 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 09:36:08,309 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-26 09:43:02,727 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 09:43:02,727 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-26 09:43:02,728 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-26 09:43:02,734 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 09:43:02,734 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-26 09:43:18,902 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 09:43:18,903 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-26 09:43:18,903 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-26 09:43:18,908 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 09:43:18,909 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-26 09:45:29,660 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 09:45:29,661 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-26 09:45:29,662 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-26 09:45:29,665 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 09:45:29,666 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-26 09:48:18,421 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 09:48:18,421 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-26 09:48:18,421 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-26 09:48:18,426 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 09:48:18,426 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-26 10:18:32,988 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 10:18:32,989 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-26 10:18:32,990 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-26 10:18:32,999 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 10:18:32,999 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-26 10:34:44,734 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 10:34:44,734 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-26 10:34:44,735 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-26 10:34:44,741 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 10:34:44,742 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-26 10:35:38,404 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 10:35:38,404 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-26 10:35:38,405 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-26 10:35:38,410 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 10:35:38,410 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-26 10:37:34,679 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 10:37:34,679 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-26 10:37:34,680 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-26 10:37:34,686 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 10:37:34,686 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-26 10:37:44,827 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 10:37:44,828 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-26 10:37:44,828 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-26 10:37:44,832 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 10:37:44,832 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-26 10:40:07,110 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 10:40:07,110 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-26 10:40:07,111 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-26 10:40:07,115 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 10:40:07,116 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-26 10:40:13,972 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 10:40:13,973 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-26 10:40:13,973 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-26 10:40:13,977 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 10:40:13,978 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-26 10:40:44,277 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 10:40:44,277 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-26 10:40:44,278 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-26 10:40:44,282 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 10:40:44,282 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-26 10:40:46,564 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 10:40:46,565 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-26 10:40:46,565 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-26 10:40:46,571 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 10:40:46,572 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-26 10:42:54,318 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 10:42:54,319 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-26 10:42:54,321 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-26 10:42:54,327 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 10:42:54,327 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-26 10:42:56,931 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 10:42:56,931 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-26 10:42:56,932 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-26 10:42:56,938 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 10:42:56,938 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-26 10:43:09,990 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 10:43:09,991 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-26 10:43:09,991 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-26 10:43:09,996 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 10:43:09,997 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-26 10:46:46,297 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 10:46:46,301 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-26 10:46:46,308 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 35 resources
+2020-03-26 10:46:46,314 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 10:46:46,315 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-26 10:47:08,482 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 10:47:08,486 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-26 10:47:08,491 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 35 resources
+2020-03-26 10:47:08,497 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 10:47:08,498 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-26 11:16:26,121 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 11:16:26,122 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-26 11:16:26,123 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-26 11:16:26,128 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 11:16:26,129 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-26 11:17:15,864 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 11:17:15,865 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-26 11:17:15,865 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-26 11:17:15,872 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 11:17:15,872 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-26 11:24:02,796 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 11:24:02,797 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-26 11:24:02,798 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-26 11:24:02,806 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 11:24:02,806 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-26 11:39:49,840 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 11:39:49,842 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-26 11:39:49,843 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-26 11:39:49,854 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 11:39:49,855 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-26 11:43:15,571 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 11:43:15,571 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-26 11:43:15,572 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-26 11:43:15,577 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 11:43:15,578 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-26 11:46:52,770 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 11:46:52,771 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-26 11:46:52,771 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-26 11:46:52,776 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 11:46:52,777 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-26 11:48:31,440 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 11:48:31,440 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-26 11:48:31,441 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-26 11:48:31,447 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 11:48:31,447 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-26 11:49:33,372 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 11:49:33,372 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-26 11:49:33,373 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-26 11:49:33,376 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 11:49:33,377 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-26 11:49:35,413 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 11:49:35,414 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-26 11:49:35,414 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-26 11:49:35,418 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 11:49:35,418 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-26 11:51:11,886 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 11:51:11,886 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-26 11:51:11,887 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-26 11:51:11,893 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 11:51:11,893 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-26 11:53:56,908 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 11:53:56,908 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-26 11:53:56,909 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-26 11:53:56,916 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 11:53:56,917 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-26 11:54:15,198 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 11:54:15,199 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-26 11:54:15,200 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-26 11:54:15,204 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 11:54:15,205 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-26 11:54:29,019 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 11:54:29,020 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-26 11:54:29,020 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-26 11:54:29,025 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 11:54:29,025 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-26 11:55:02,014 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 11:55:02,015 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-26 11:55:02,015 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-26 11:55:02,019 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 11:55:02,019 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-26 11:56:46,049 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 11:56:46,049 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-26 11:56:46,050 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-26 11:56:46,054 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 11:56:46,054 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-26 11:57:03,106 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 11:57:03,107 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-26 11:57:03,107 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-26 11:57:03,111 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 11:57:03,111 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-26 11:57:32,581 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 11:57:32,581 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-26 11:57:32,582 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-26 11:57:32,588 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 11:57:32,588 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-26 13:44:55,031 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 13:44:55,037 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-26 13:44:55,043 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 35 resources
+2020-03-26 13:44:55,048 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 13:44:55,048 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-26 13:44:56,954 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 13:44:56,954 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-26 13:44:56,955 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-26 13:44:56,960 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 13:44:56,961 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-26 13:57:54,407 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 13:57:54,412 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-26 13:57:54,417 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 35 resources
+2020-03-26 13:57:54,422 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 13:57:54,423 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-26 13:59:36,165 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 13:59:36,169 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-26 13:59:36,176 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 35 resources
+2020-03-26 13:59:36,181 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 13:59:36,182 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-26 13:59:55,795 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 13:59:55,799 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-26 13:59:55,804 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 35 resources
+2020-03-26 13:59:55,809 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 13:59:55,810 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-26 14:00:25,544 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 14:00:25,548 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-26 14:00:25,553 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 35 resources
+2020-03-26 14:00:25,558 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 14:00:25,559 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-26 14:00:44,259 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 14:00:44,263 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-26 14:00:44,268 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 35 resources
+2020-03-26 14:00:44,273 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 14:00:44,273 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-26 14:02:05,141 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 14:02:05,145 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-26 14:02:05,150 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 35 resources
+2020-03-26 14:02:05,155 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 14:02:05,155 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-26 14:02:23,851 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 14:02:23,856 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-26 14:02:23,862 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 35 resources
+2020-03-26 14:02:23,868 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 14:02:23,868 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-26 14:24:15,222 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 14:24:15,226 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-26 14:24:15,231 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 35 resources
+2020-03-26 14:24:15,237 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-26 14:24:15,237 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-27 08:42:37,628 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-03-27 10:05:27,521 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-27 10:05:27,526 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-27 10:05:27,544 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 35 resources
+2020-03-27 10:05:27,597 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-27 10:05:27,597 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-27 10:09:13,172 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-27 10:09:13,178 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-27 10:09:13,190 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 35 resources
+2020-03-27 10:09:13,196 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-27 10:09:13,196 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-27 10:12:07,783 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-27 10:12:07,788 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-27 10:12:07,794 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 35 resources
+2020-03-27 10:12:07,800 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-27 10:12:07,800 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-27 10:20:40,140 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-27 10:20:40,146 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-27 10:20:40,157 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 35 resources
+2020-03-27 10:20:40,168 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-27 10:20:40,168 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-27 14:19:56,393 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-27 14:19:56,403 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-27 14:19:56,403 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-27 14:19:56,437 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-27 14:19:56,437 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-27 14:20:51,340 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-27 14:20:51,340 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-27 14:20:51,341 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-27 14:20:51,348 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-27 14:20:51,348 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-27 14:22:29,916 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-27 14:22:29,921 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-27 14:22:29,935 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 35 resources
+2020-03-27 14:22:29,944 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-27 14:22:29,944 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-27 14:28:22,666 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-27 14:28:22,670 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-27 14:28:22,675 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 35 resources
+2020-03-27 14:28:22,682 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-27 14:28:22,682 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-27 14:29:27,183 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-27 14:29:27,187 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-27 14:29:27,193 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 35 resources
+2020-03-27 14:29:27,199 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-27 14:29:27,200 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-27 14:29:31,054 [Worker-32: Launching cobranca - CobrancaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-27 14:29:31,058 [Worker-32: Launching cobranca - CobrancaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-27 14:29:31,064 [Worker-32: Launching cobranca - CobrancaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 35 resources
+2020-03-27 14:29:31,070 [Worker-32: Launching cobranca - CobrancaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-27 14:29:31,070 [Worker-32: Launching cobranca - CobrancaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-27 14:31:54,472 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-27 14:31:54,476 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-27 14:31:54,481 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 35 resources
+2020-03-27 14:31:54,487 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-27 14:31:54,488 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-27 14:34:35,104 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-27 14:34:35,107 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-27 14:34:35,113 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 35 resources
+2020-03-27 14:34:35,120 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-27 14:34:35,121 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VRHC\Documents\workspace-spring-tool-suite-4-4.5.1.RELEASE\cobranca\cobranca\src\test\resources
+2020-03-27 14:36:39,840 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-27 14:36:39,840 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-27 14:36:39,841 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-27 14:36:39,847 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.

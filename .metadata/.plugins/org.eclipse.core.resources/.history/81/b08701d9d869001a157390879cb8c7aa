@@ -1,5 +1,0 @@
-package com.projetos.cobranca.repository;
-
-public interface Titulos {
-
-}

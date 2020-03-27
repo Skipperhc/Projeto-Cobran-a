@@ -1,0 +1,5 @@
+package com.projetos.cobranca.repository.filter;
+
+public class TituloFilter {
+
+}
